@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/loklei/loklei.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+在mac上pip install virutalenv virtualenvwrapper 安装方法及出现错误的解决方法
+https://github.com/loklei/loklei.github.io/wiki/%E5%9C%A8mac%E4%B8%8Apip-install-virutalenv-virtualenvwrapper-%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95%E5%8F%8A%E5%87%BA%E7%8E%B0%E9%94%99%E8%AF%AF%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
