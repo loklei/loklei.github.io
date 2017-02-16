@@ -1,0 +1,37 @@
+'''
+学习笔记：2-1 如何在列表, 字典, 集合中根据条件筛选数据
+'''
+
+# coding :utf-8
+
+from random import  randint
+
+data = [randint(-10,10)for _ in xrange(10)]
+print data
+
+a = [x for x in data if x >= 0 ]
+
+b = filter(lambda x: x>=0,data)
+
+print a
+print b
+
+print "############"
+
+c = {x: randint(60,100) for x in xrange(1,21)}
+
+print c
+
+d ={k:v for k,v in c.iteritems() if v >90}
+
+print d
+
+print "############"
+
+s = set(data)
+
+print s
+
+{x for x in s  if x %3 ==0}
+
+print x
